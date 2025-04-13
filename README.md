@@ -29,15 +29,15 @@ The dataset `StudentsPerformanceLabeled-4.csv` contains information on students'
    git clone https://github.com/sankalpa008/StudentsPerformaceLabeled.git
 ```
 
-2. Navigate to the project directory
-  ```bash
-  cd StudentsPerformaceLabeled
+2. Navigate to the project directory 
+   ```bash
+   cd StudentsPerformaceLabeled
 ```
 
 3. Run the analysis scripts
    ```bash
    python assignment3.py
-python assignment4.py
-python assignment_5.py
+   python assignment4.py
+   python assignment_5.py
 ```
          
